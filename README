@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3958
+
+Multiple file on different tabs becomes confusing when they have same file name, this utility displays current tab info on status line.
